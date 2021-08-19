@@ -82,6 +82,9 @@ const Projects = () => {
               <a href="https://github.com/ayse8888/Board-Project" target="_blank">
                 <FaGithub size={30}/>
               </a>
+              <a href="https://lovelysongs.netlify.app/" target="_blank">
+                <GoLinkExternal size={35}/>
+              </a>
             </Col>
             <Col sm={6}>
               <img src={board} className="w-100 madlibs"/>
@@ -102,7 +105,7 @@ const Projects = () => {
               <a href="https://github.com/ayse8888/portfolio" target="_blank">
                 <FaGithub size={30}/>
               </a>
-              <a href="" target="_blank">
+              <a href="https://my-portfolio-project-reactjs.netlify.app/" target="_blank">
                 <GoLinkExternal size={35}/>
               </a>
             </Col>
