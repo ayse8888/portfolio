@@ -122,7 +122,7 @@ const Projects = () => {
                 The purpose of this website was to create an e-commerce website upon Developer Items
                 such as clothes, mugs, hoodies etc. Since there was no e-commerce companies wich sell
                 such as items in Turkey, we developed an idea to create this website where you can search
-                items, create your suer profile, add them to your cart and remove. You can add them to 
+                items, create your user profile, add them to your cart and remove. You can add them to 
                 your favorite list. And You can sort by the catagory. Everything will be stored in 
                 local storage. 👘
               </p>
