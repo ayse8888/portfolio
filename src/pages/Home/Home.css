@@ -1,0 +1,56 @@
+.home {
+    text-align: center;
+}
+
+.homeRow {
+    padding: 7rem  0 0 0;
+}
+
+.name, .languages {
+    font-size: 72px;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.mediaIcon {
+    font-size: 50px;
+    margin: 2rem .5rem;
+    color: #636663;
+}
+
+.mediaIcon:hover {
+    color: #B58DB6;
+}
+
+.languages {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.experiencedIn {
+    color: #ff8500 !important;
+}
+
+.homeRow h3 {
+    color: #636663;
+}
+
+.homeRow p {
+    color: #636663;
+    font-size: 25px;
+}
+
+.divContent {
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 600;
+    justify-content: center;
+    margin: 0 0 3rem 0;
+    font-size: 20px;
+  }
+
+  .divContent span {
+    margin: 1rem;
+    color: #636663;
+  }

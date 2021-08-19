@@ -1,0 +1,49 @@
+.myPicture {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 100%;
+    margin-bottom: 2rem;
+}
+
+.about {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 3rem 0;
+}
+
+.about h1 {
+    color: #5D2E46;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.textDiv {
+    width: 70%;
+    text-align: left;
+    padding: 1.5rem 0;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 600;
+    color: #636663;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 100%;
+    max-width: 210px;
+    height: 210px;
+    border: 5px solid #B58DB6;
+    border-radius: 20px;
+    margin: 2rem;
+    -moz-asx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateX(0);
+    cursor: pointer;
+}
+
+.logo:hover {
+    box-shadow: 2px 5px 10px rgba(131, 103, 199, 3);
+    transition : all 0.3s linear;
+    transform: scale(1.05);
+}

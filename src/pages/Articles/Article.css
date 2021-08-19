@@ -1,0 +1,46 @@
+.projects {
+    padding: 3rem .5rem;
+}
+
+.projects h1 {
+    margin-bottom: 3rem;
+    font-size: 72px;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.section {
+    justify-content: center;
+    align-items: center;
+    background-color: #fff1e6;
+    padding: 3rem;
+    margin-bottom: 3rem;
+    -moz-asx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateX(0);
+    border-radius: 10px;
+    z-index: 0;
+}
+
+.section:hover {
+    box-shadow: 2px 5px 10px rgba(131, 103, 199, 3);
+    transition : all 0.3s linear;
+    transform: scale(1.05);
+}
+
+.section h2 {
+    text-decoration: underline;
+}
+
+.section img {
+    margin-top: 1rem;
+}
+
+.section svg {
+    color: #636663;
+}
+
+.section svg:hover {
+    color: #B58DB6;
+}
