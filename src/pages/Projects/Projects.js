@@ -44,9 +44,9 @@ const Projects = () => {
               <h2>Movie Project</h2>
               <p>
                 This project is inspired by IMDb website which you can search for movies, 
-                actors and see popular movies, similar movies etc. You can check movie details
+                actors and see popular movies, similar movies etc. You can check movie details,
                 actor details and so on. In this project, my partner and 
-                I've used object-oriented programming and MovieDb API to fetch movie 
+                I've used object-oriented programming and MovieDb API to fetch the movie 
                 data. 🎬
               </p>
               <p>
@@ -72,7 +72,7 @@ const Projects = () => {
                 This project is inspired by Trello which is a task manager.
                 In this project we built a music app where you can add songs to
                 your list, edit them and delete them. You can create your own song
-                list according to your mood and add songs in it. You can add them to 
+                list and add songs in it. You can add them to 
                 your favorites and remove. 🎵
               </p>
               <p>
@@ -127,7 +127,7 @@ const Projects = () => {
                 local storage. 👘
               </p>
               <p>
-                We used ReactJs, Commerce Js DB, ContextApi, Firebase for Login authuntication, Bootstrap and CSS.
+                We used ReactJs, Commerce Js DB, ContextApi, Firebase for Login authentication, Bootstrap and CSS.
               </p>
               <a href="https://github.com/ayse8888/react-graduation-ecommerce-project" target="_blank">
                 <FaGithub size={30}/>
