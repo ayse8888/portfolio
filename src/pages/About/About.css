@@ -29,6 +29,11 @@
     margin: 0 auto;
 }
 
+.textDiv span {
+    font-style: italic;
+    color: #ff8500;
+}
+
 .logo {
     width: 100%;
     max-width: 210px;

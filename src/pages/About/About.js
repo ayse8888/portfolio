@@ -23,9 +23,8 @@ const About = () => {
               I actually graduated from a non-related major and worked in Tourism sector over 5 years. But I had an
               enthusiasm and love for coding. The idea and the possibilities of creating high-quality, helpful, and
               inovative websites always excite me. So I decided to pursue web development as my dream. And I quited my job
-              to follow my dream. My passion and hard working for coding increased every day and I got a scholarship from
-              Turkey's one of the best coding schools "Kodluyoruz". After graduation, I got another schorlarship from
-              one of the best coding school's "Re:Coded". Those are life changing experiences for me and are the places
+              to follow my dream. My passion and hard working for coding increased every day and I got two scholarships from
+              the best coding schools which are <span>"Kodluyoruz"</span> and <span>"Re:Coded"</span>. Those are life changing experiences for me and are the places
               where I have learnt everything. Throughout the bootcamps, I have built projects with HTML, CSS, Bootstrap,
               Javascript, React.js and Firebase.
               My story is not ending here. There is a lot to learn and discover.
