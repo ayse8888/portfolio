@@ -67,7 +67,7 @@ const Projects = () => {
             <Col sm={6}>
               <h2>HTML Meta Etiketi</h2>
               <p>
-                This article explains what is HTML Meta tag is and its importance, 
+                This article explains what HTML Meta tag is and its importance, 
                 explains most important meta tag usages.
               </p>
               <a href="https://aysebasar.medium.com/html-meta-etiketi-a2282270b41" target="_blank">
