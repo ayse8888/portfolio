@@ -29,7 +29,8 @@
     margin: 0 auto;
 }
 
-.textDiv i {
+.textDiv span {
+    font-style: italic;
     color: #ff8500;
 }
 
