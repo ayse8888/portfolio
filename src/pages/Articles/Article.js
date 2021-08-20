@@ -50,7 +50,7 @@ const Projects = () => {
             <Col sm={6}>
               <h2>Solid Prensipleri</h2>
               <p>
-                This article explains what is Solid Principles are and its importance, 
+                This article explains what Solid Principles are and its importance, 
                 explains the first rule "S" which is Single Responsibility Principle.
               </p>
               <a href="https://aysebasar.medium.com/solid-prensipleri-nelerdir-f3d57c4b3456" target="_blank">
