@@ -21,7 +21,7 @@ const Projects = () => {
               <p>
                 The purpose of the website is to play mad libs. Madlibs is a universal game and more information
                 about it can be found in google. Type your words and see them reflect alive. Complete the 
-                story with your own words 🌞 
+                story with your own words. 🌞 
               </p>
               <p>
                 We used HTML, CSS and Javascript on this project.
@@ -97,7 +97,7 @@ const Projects = () => {
               <h2>Portfolio</h2>
               <p>
                 The purpose of this website is to tell my story, my education, my skills and projects 
-                that I have made so far. 
+                that I have made so far. 👩‍💻 
               </p>
               <p>
                 I used ReactJs, Bootstrap and CSS.
@@ -120,7 +120,7 @@ const Projects = () => {
               <h2>Developer Store E-Commerce WebSite</h2>
               <p>
                 The purpose of this website was to create an e-commerce website upon Developer Items
-                such as clothes, mugs, hoodies etc. Since there was no e-commerce companies wich sell
+                such as clothes, mugs, hoodies etc. Since there was no e-commerce companies which sell
                 such as items in Turkey, we developed an idea to create this website where you can search
                 items, create your user profile, add them to your cart and remove. You can add them to 
                 your favorite list. And You can sort by the catagory. Everything will be stored in 

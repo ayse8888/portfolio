@@ -18,7 +18,7 @@ const Projects = () => {
               <h2>SSH Nedir ?</h2>
               <p>
                 This article explains what is SSH, how it works, how to create your SSH Key,
-                puclic and private keys
+                public and private keys.
               </p>
               <a href="https://aysebasar.medium.com/ssh-nedir-dab38e299769" target="_blank">
                 <FaMedium size={30}/>
@@ -50,7 +50,7 @@ const Projects = () => {
             <Col sm={6}>
               <h2>Solid Prensipleri</h2>
               <p>
-                This article explains what is Solid Principles are and its importace, 
+                This article explains what is Solid Principles are and its importance, 
                 explains the first rule "S" which is Single Responsibility Principle.
               </p>
               <a href="https://aysebasar.medium.com/solid-prensipleri-nelerdir-f3d57c4b3456" target="_blank">
@@ -67,8 +67,8 @@ const Projects = () => {
             <Col sm={6}>
               <h2>HTML Meta Etiketi</h2>
               <p>
-                This article explains what is HTML Meta tag is and its importace, 
-                explains most important meta tag usages
+                This article explains what is HTML Meta tag is and its importance, 
+                explains most important meta tag usages.
               </p>
               <a href="https://aysebasar.medium.com/html-meta-etiketi-a2282270b41" target="_blank">
                 <FaMedium size={30}/>
