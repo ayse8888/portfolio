@@ -1,3 +1,22 @@
+# About Website
+The purpose of this website is to tell my story, my education, my skills and projects that I have made so far. 👩‍💻
+I used ReactJs, Bootstrap and CSS.
+
+# Features
+- SideBar Menu
+- Home Page
+- About Page
+- Projects Page
+- Articles Page
+- Resume Page
+- Contact Page
+
+
+The website is hosted in https://my-portfolio-project-reactjs.netlify.app/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
