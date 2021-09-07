@@ -1,5 +1,5 @@
 # About Website
-The purpose of this website is to tell my story, my education, my skills and projects that I have made so far. 👩‍💻
+The purpose of this website is to tell my story, my education, my skills and projects that I have made so far. 👩‍💻 \
 I used ReactJs, Bootstrap and CSS.
 
 # Features
