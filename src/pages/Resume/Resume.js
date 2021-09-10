@@ -1,5 +1,5 @@
 import React from 'react';
-import pdf from './aysebasarenglishcv.pdf'
+import pdf from './aysebasar-resume.pdf'
 
 const Resume = () => {
 
@@ -20,7 +20,7 @@ const Resume = () => {
   
     return (
         <>
-          <iframe src={pdf} title="aysebasarenglishcv.pdf" style={divStyle}></iframe>
+          <iframe src={pdf} title="aysebasar-resume.pdf" style={divStyle}></iframe>
         </>
       );
   }
