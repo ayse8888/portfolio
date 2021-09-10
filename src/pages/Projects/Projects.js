@@ -5,6 +5,7 @@ import movieproject from "../../img/movieproject.png";
 import portfolio from "../../img/portfolio.png";
 import ds from "../../img/ds.png";
 import board from "../../img/board.png";
+import animal from "../../img/animal.png";
 import "./Projects.css"
 import { FaGithub } from "react-icons/fa";
 import { GoLinkExternal } from "react-icons/go";
@@ -138,6 +139,32 @@ const Projects = () => {
             </Col>
             <Col sm={6}>
               <img src={ds} className="w-100 madlibs"/>
+            </Col>
+          </Row>
+        </Col>
+        <Col sm={12}>
+          <Row className="section">
+            <Col sm={6}>
+              <h2>Capstone Turkey Animal Adoption</h2>
+              <p>
+                The purpose of this website was to create a platform where you can search pets in need of help.
+                Our mission is helping all dogs and cats who need a home.
+                With our website, we bring people and pets together! 🐈 🐕
+              </p>
+              <p>
+                We used ReactJs, Redux (for user id), Firebase for Login and Sign Up authentication, 
+                ReactStrap, Css, JavaScript, Formik, i18n, Email.js, Wordpress Api, Jest (for testing),
+                Netlify (for hosting), Figma (for design)
+              </p>
+              <a href="https://github.com/ReCoded-Org/capstone-turkey-animal-adoption" target="_blank">
+                <FaGithub size={30}/>
+              </a>
+              <a href="https://capstone-turkey-animal-adoption.netlify.app/" target="_blank">
+                <GoLinkExternal size={35}/>
+              </a>
+            </Col>
+            <Col sm={6}>
+              <img src={animal} className="w-100 madlibs"/>
             </Col>
           </Row>
         </Col>
